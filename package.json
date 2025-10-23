@@ -1,0 +1,18 @@
+{
+  "name": "xnxx-scraper",
+  "version": "1.0.0",
+  "description": "Scrape XNXX video info and search results",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["xnxx", "scraper", "video", "download", "adult"],
+  "author": "manaofc",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "latest",
+    "cheerio": "latest",
+    "he": "latest"
+  }
+}
